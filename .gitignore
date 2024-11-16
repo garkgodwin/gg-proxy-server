@@ -1,0 +1,4 @@
+node_modules/
+*.txt
+server.cert
+server.key
